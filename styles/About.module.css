@@ -1,0 +1,10 @@
+/*define classes here
+cannot do element selectors
+there is supposed to be one of these module.css per page
+you cant use p for example, you need to create a class for it as below
+*/
+
+
+.coolColor {
+    color: darkturquoise;
+}
